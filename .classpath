@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-12">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/JDBCSQL/sqljdbc_8.2/enu/mssql-jdbc-8.2.2.jre13.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/commons-compress-1.19.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/poi-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/poi-ooxml-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/poi-ooxml-schemas-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/NCKH/jar/New folder/xmlbeans-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
